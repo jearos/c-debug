@@ -1,2 +1,3 @@
 # c-debug
-Tools for c debugging
+Just some macros for c debugging
+
